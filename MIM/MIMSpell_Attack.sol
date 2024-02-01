@@ -2,7 +2,7 @@ pragma solidity ^0.8.13;
 
 
 
-// @KeyInfo - Total Lost : ~464K USD$
+// @KeyInfo - Total Lost : ~$6.5 M USD$
 // Attacker :  https://etherscan.io/address/0x87f585809ce79ae39a5fa0c7c96d0d159eb678c9
 //             https://etherscan.io/address/0xbd12d6054827ae3fc6d23b1acf47736691b52fd3
 //             https://etherscan.io/address/0x40d5ffa20fc0df6be4d9991938daa54e6919c714
