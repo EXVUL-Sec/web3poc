@@ -11,3 +11,13 @@
     ```
     forge test --contracts ./WiseLending/WiseLending.sol -vvv --evm-version shanghai
     ```
+
+
+- #### 20240130 MIM_SPELL  ATTACK 
+  - see the details:
+    -  https://twitter.com/EXVULSEC/status/1752288206211690578
+    
+    PoC: [MIMSpell_Attack.sol](./MIM/MIMSpell_Attack.sol)
+    ```
+    forge test --contracts ./MIM/MIMSpell_Attack.sol -vvv --evm-version shanghai
+    ```

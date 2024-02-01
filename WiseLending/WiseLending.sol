@@ -15,7 +15,6 @@ import {IERC20} from "./interface.sol";
 
 // @Analysis
 // Twitter alert by Exvul : https://twitter.com/EXVULSEC/status/1746138811862577515
-// Twitter alert by Peckshield: https://twitter.com/peckshield/status/1745907642118123774
 
 contract WiseLendingTest is Test {
     IWiseLending public wiseLending = IWiseLending(payable(0x37e49bf3749513A02FA535F0CbC383796E8107E4));
